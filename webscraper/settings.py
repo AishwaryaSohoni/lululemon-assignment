@@ -50,7 +50,7 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-ROOT_URLCONF = "lulu_scraper.urls"
+ROOT_URLCONF = "webscraper.urls"
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "lulu_scraper.wsgi.application"
+WSGI_APPLICATION = "webscraper.wsgi.application"
 
 
 # Database
