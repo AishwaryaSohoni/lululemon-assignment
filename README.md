@@ -1,4 +1,9 @@
 Hey there! This is my submission for the Web Scraper Assignment.
+# ⚠️ Disclaimer
+Note: This project was completed as part of a take-home assignment in early 2024. It reflects my skills at that time. My current work has significantly evolved since then. I also fell short on time while implementing this assignment. 
+
+
+---------
 
 ## How to run the scraper
 1. Clone the repository
